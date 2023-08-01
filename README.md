@@ -1,3 +1,3 @@
 ## Project_DE-E2E
 
-The function of this repository will be to show the codes required to carry out an ETL, with different types of data.
+In this repository I will show some different ways to perform an ETL using various technologies.
